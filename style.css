@@ -1,0 +1,14 @@
+header {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+nav {
+    color: white;
+    font-size: 18px;
+}
